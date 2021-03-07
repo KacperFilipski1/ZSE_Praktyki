@@ -26,9 +26,40 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.ZadaniaTablice">
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="second_week.loops" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ZadaniaMetody">
+    <configuration name="ZadaniaMetody" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="second_week.loops.ZadaniaMetody" />
+      <module name="ZSE_Praktyki" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="second_week.loops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ZadaniaTablice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="second_week.loops.ZadaniaTablice" />
+      <module name="ZSE_Praktyki" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="second_week.loops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZadaniaTablice2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="second_week.loops.ZadaniaTablice2" />
       <module name="ZSE_Praktyki" />
       <extension name="coverage">
         <pattern>
@@ -66,25 +97,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="zadania" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="first_week.zadania" />
-      <module name="ZSE_Praktyki" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="first_week.statements.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ZadaniaMetody" />
+        <item itemvalue="Application.ZadaniaTablice2" />
         <item itemvalue="Application.ZadaniaTablice" />
         <item itemvalue="Application.ZadnaiaPętle" />
         <item itemvalue="Application.statements" />
-        <item itemvalue="Application.zadania" />
       </list>
     </recent_temporary>
   </component>
