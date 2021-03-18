@@ -25,19 +25,20 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="second_week.loops" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ZadaniaMetody">
-    <configuration name="ZadaniaMetody" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="second_week.loops.ZadaniaMetody" />
+  <component name="RunManager" selected="Application.swing">
+    <configuration name="ProjektSklep" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Projekt.ProjektSklep" />
       <module name="ZSE_Praktyki" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="second_week.loops.*" />
+          <option name="PATTERN" value="Projekt.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -45,12 +46,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ZadaniaTablice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="second_week.loops.ZadaniaTablice" />
+    <configuration name="Sklep" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Projekt.Sklep" />
       <module name="ZSE_Praktyki" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="second_week.loops.*" />
+          <option name="PATTERN" value="Projekt.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ZadnaiaPętle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="second_week.loops.ZadnaiaPętle" />
+    <configuration name="alejka" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Projekt.alejka" />
       <module name="ZSE_Praktyki" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="second_week.loops.*" />
+          <option name="PATTERN" value="Projekt.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="statements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="first_week.statements.statements" />
+    <configuration name="swing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Projekt.swing" />
       <module name="ZSE_Praktyki" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="first_week.statements.*" />
+          <option name="PATTERN" value="Projekt.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,11 +100,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ZadaniaMetody" />
+        <item itemvalue="Application.swing" />
+        <item itemvalue="Application.Sklep" />
+        <item itemvalue="Application.alejka" />
+        <item itemvalue="Application.ProjektSklep" />
         <item itemvalue="Application.ZadaniaTablice2" />
-        <item itemvalue="Application.ZadaniaTablice" />
-        <item itemvalue="Application.ZadnaiaPętle" />
-        <item itemvalue="Application.statements" />
       </list>
     </recent_temporary>
   </component>
@@ -117,5 +118,15 @@
       <updated>1614080028117</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" log-message="true" type="java-exception">
+          <properties class="java.lang.IndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
